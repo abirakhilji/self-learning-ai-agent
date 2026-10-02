@@ -1,0 +1,6 @@
+.env
+memory.db
+eval_memory.db
+workspace/
+__pycache__/
+venv/
